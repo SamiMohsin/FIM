@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="orma-annotations-2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gfx.android.orma/orma-annotations/2.3.2/646812381dc0f661ce82cc4752b3e3f00ac6346e/orma-annotations-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gfx.android.orma/orma-annotations/2.3.2/8e83005a937a0401f28d0feb499afe32a69a6758/orma-annotations-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

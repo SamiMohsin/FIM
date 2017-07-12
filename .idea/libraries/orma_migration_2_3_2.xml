@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="orma-migration-2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/fe340ea91ab17c19032352458370cdcb88efd58e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/fe340ea91ab17c19032352458370cdcb88efd58e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gfx.android.orma/orma-migration/2.3.2/f7d23db7520c6636bbd90d8a1e4f722677a8d267/orma-migration-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

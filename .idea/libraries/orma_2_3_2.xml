@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="orma-2.3.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/39c59293510cc82da9b5866bec32f0fae114d095/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/39c59293510cc82da9b5866bec32f0fae114d095/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gfx.android.orma/orma/2.3.2/319e007cc3539a26c1226b26173f456922d223e0/orma-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

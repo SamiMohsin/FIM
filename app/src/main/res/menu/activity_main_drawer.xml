@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_book_lime_900_24dp"
+            android:title="@string/overview" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_event_lime_900_24dp"
+            android:title="@string/events" />
+        <item
+            android:id="@+id/nav_lectural"
+            android:icon="@drawable/ic_select_all_lime_900_24dp"
+            android:title="@string/committees" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_settings_lime_900_24dp"
+            android:title="@string/setting" />
+    </group>
+</menu>

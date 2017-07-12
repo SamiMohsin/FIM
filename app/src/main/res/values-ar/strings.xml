@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">FIM</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about">عن البرنامج</string>
+    <string name="search">بحث</string>
+    <string name="action_settings">الضبط</string>
+    <string name="logo">ملتقى ظفار الأول</string>
+    <string name="about_version_prefix">\"V%1$s</string>
+
+
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">عرضي</string>
+    <string name="linear_layout_manager">طولي</string>
+
+
+    <string name="overview">كلمات مضيئه</string>
+    <string name="events">الفعاليات</string>
+    <string name="committees">المحاضرين</string>
+    <string name="setting">الضبط</string>
+
+    </resources>

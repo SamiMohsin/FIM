@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="EliteMvp-2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/81334f9c98e620ea5872d4cf421116429e539ebb/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/81334f9c98e620ea5872d4cf421116429e539ebb/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jemshit/EliteMvp/2.0.2/ca3ac8108211a2fdcc5c65a4300b1fa6abf70a20/EliteMvp-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

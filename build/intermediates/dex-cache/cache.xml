@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/95fb0fda30953c90751165b560525f74c84c42d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc7192d24d02e0abd397c0d4068f4dd37cc5744c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/1b080526c95be84aee8d665c718bf561aeb84b06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f7279c5fd6eee298de6c95a4f8d3bfb8929618">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a31720221e24c576f21662c5ab463fdcb83b0bfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_328136f5b3324b4282f0837af418786ea5b47b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/e038234ff029b876204523000b73f8491db65a37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb5f326a0c2b8c5e8e2e8abc9edd56a82bedb585/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_6f02eea70b2dc5f71bc56270aa4a8bb613129503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/fd38e5e175fc66be014a2cac7f4306f04c9aaa41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fe37c696fcf0540e6b5db14ca02795f559f3ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/a7ce69d86272b3f98d4ad958a5831e2356fa9687/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd095de18b07efcbf2692bef542b757572975676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/5a9b24e87d7bd040375005a56e09d29fafd01805/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d45232000dc8770777ce7a7915b4a379663b4e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/81334f9c98e620ea5872d4cf421116429e539ebb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="320d4fe934e7d8e31c7179ba32b521d266e0f45f">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e2bf47439199d781ed6318ba85c4a916d095bc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/f5e40294b6e6ff02b0b29a30d912df7798093092/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df9383b9739db8fafe3a673f8083ccad27a95c4f">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5afa679e2c3d5cbe2dd482dc168e316afe487ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_67d7d61fbd94f9a0a47748bc622b299372955e1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61/org.abego.treelayout.core-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.abego.treelayout.core-1.0.1_db66293a0b681146fe8771b9fb70a1eead2b1e6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/11fab13a89c2f43efc45fc6ce3efecf32c52e46c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53c502a8b1d5d748873075fe6e19e1a747019ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.jakewharton.fliptables/fliptables/1.0.2/797b709114c107947e4796bdb506ab0e62eaf5ce/fliptables-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="797b709114c107947e4796bdb506ab0e62eaf5ce">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/fliptables-1.0.2_8b5abc9d1b13d7e85a7b461dac0de3ffee00d42b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/d7f7afc7d140a658b08c1c10ecea6c064ee5c931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2952dbbdc240f42e9a60add4c97fd1e6481cd7ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9906804cd0a2134f9287d86053f73b5c424003d">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd86ad4ea152bed41c1b9b14af9b6fab2d9bcceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/5067478827a98f5ab77d9fc577903edc57af3da4/antlr4-runtime-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5067478827a98f5ab77d9fc577903edc57af3da4">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/antlr4-runtime-4.5_12818c22f6b06123a753928f24000eb78ed269eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_9abd98939209dd1ed3e228ea4e6227d32b92849c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/7b25b013e9ce842ae60346b2da4a49ceffe6da6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fbcc467042cace4298d675cbe5a16e4d8678cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/dfb8714a20a38b339450a83d7e45c7d4ce7a7527/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4adc2177aaf4bf5934553a3705c5c394dc48b9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/f2c57be5da7172c4ec7939595e191162c6548153/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6808a8fa771a26d5fd36f6237405a53848924244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.github.gfx.android.orma/orma-annotations/2.3.2/646812381dc0f661ce82cc4752b3e3f00ac6346e/orma-annotations-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="646812381dc0f661ce82cc4752b3e3f00ac6346e">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/orma-annotations-2.3.2_fd8d8464d7885f334db128c86c695dd73ace86a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_ffa5ef479ea668c11fa0fbd1be466bdef66e92cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c47558cc45ea67091dfab88eb43e12f7d74ccd28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_fc77088df996dd188a2cb9887c2411aa15a3adb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.1.0_f8d462d12fd47004e694a68e5909b80030ff3bd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_216480919d04b5c32e380a7bea7c7397786bc551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/06cfb15fcb219fad3aa380999ff60e6e57504dcd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db896fc92ddeba79473867151e5d28e63128c980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/fe340ea91ab17c19032352458370cdcb88efd58e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5ab187e37d7f5445ba7e89337b367b37acf4c752">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4fa433675dcdb416f9458c60a68ccfe76bd0170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.6/a2e0fb833ba928689fb8b8d9cc92a81298da7c37/dagger-2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2e0fb833ba928689fb8b8d9cc92a81298da7c37">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.6_fed5dc902d5f0411823f0fcda64d2693960a3e42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/8f9f14fafba793483dffcad447528e90c8006c5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e1953b0b45103fefaaafc90945b9bfd32e2287e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_ee7237814a58efc69368b2b74fda1d313e8b727f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ca25599721e66dfde06886ae9c2bdbe901b247fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_d8b0b5f4053df8be9e79e8f5c8e674c8b96ccae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/39c59293510cc82da9b5866bec32f0fae114d095/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b154bbed7369683d9b892e790bd397a7db85154b">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf25a6331d7bc1579ba1b4f437aaa279a0242a7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/e2b8a87f9b9d8c9364473ec89835207e8ec2ace7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37c14454e4dc2caf49c03cc127d2ef205fa1f3cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.0/af000bec2036a2a9d07197c4b03b8966bfc60b03/rxjava-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af000bec2036a2a9d07197c4b03b8966bfc60b03">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.3.0_876610fc69a9b73fbe7d7501e67e55e6153709a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/7ed88734f77f8eff21632f70f09db607b5a5c78a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17fc5d8fc216d3443ad923e9e0be96442f65324c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/9f7385e1d2bdebf837b31ad2c390ab44fc3c3c37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_221b8fd088d6d22c0aee292f16012b13d75df317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoob/.android/build-cache/b7e4f15172cf1722d07600e08dafab93720e42c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f012268b56e56239148960f2697b4ef138b670f">
+        <dex dex="/Users/ayoob/AndroidStudioProjects/FIM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c53b30ba13fa370719169091701c2ca3617e3f8/classes.dex" />
+    </item>
+
+</items>

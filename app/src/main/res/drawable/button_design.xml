@@ -1,0 +1,20 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="@color/pink_600" />
+
+
+    <stroke
+        android:width="1dp"
+        android:color="@color/pink_700" />
+    <size
+        android:height="@dimen/fab_margin"
+        android:width="@dimen/fab_margin"
+        />
+
+    <corners
+        android:bottomLeftRadius="20dp"
+        android:bottomRightRadius="20dp"
+        android:topLeftRadius="20dp"
+        android:topRightRadius="20dp" />
+
+</shape>
