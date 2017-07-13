@@ -42,11 +42,11 @@ public class App extends Application {
     }
 
 
-    public static App getInstance() {
-        return instance;
-    }
+//     public static App getInstance() {
+//         return instance;
+//     }
 
-    public static Context getContext() {
-        return instance.getApplicationContext();
-    }
+//     public static Context getContext() {
+//         return instance.getApplicationContext();
+//     }
 }
