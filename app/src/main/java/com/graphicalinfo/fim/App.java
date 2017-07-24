@@ -31,7 +31,7 @@ public class App extends Application {
 
     private void initFonts() {
         try {
-            final Typeface JosefinSlab = FontCache.getTypeface(this,"Josefin_Slab/JosefinSlab-Bold.ttf");
+            final Typeface JosefinSlab = FontCache.getTypeface(this,"fonts/Josefin_Slab/JosefinSlab-Bold.ttf");
 
             final Field defaultFontTypefaceField = Typeface.class.getDeclaredField("SERIF");
             defaultFontTypefaceField.setAccessible(true);
